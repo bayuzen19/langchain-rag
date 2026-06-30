@@ -1,0 +1,4 @@
+.venv
+.deepeval
+LangChainTrainings
+chathistory.db
